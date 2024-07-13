@@ -20,8 +20,8 @@ npx webpack
 
 
 ### Карта функций
-![alt text](image.png)
-
+![alt text](image-1.png)
+![alt text](image-2.png)
 ### Ссылка на карту функций
 <https://jquery.page2page.ru/index.php5/Ajax>
 
